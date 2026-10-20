@@ -35,6 +35,12 @@ include/        Public headers (one responsibility per file)
   Sorting.h        Declarations for all 7 sorting algorithms
   InputUtils.h     Validated input + random array generation
 src/            Matching .cpp implementations + main.cpp (menu/orchestration)
+  Config.cpp
+  InputUtils.cpp
+  main.cpp
+  Renderer.cpp
+  Sorting.cpp
+  Terminal.cpp
 CMakeLists.txt  Cross-platform build config
 ```
 
