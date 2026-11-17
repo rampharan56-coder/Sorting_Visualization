@@ -2,6 +2,18 @@
 
 An animated sorting algorithm visualizer written in C++17 with a full **Qt Widgets GUI** (plus the original ANSI terminal CLI mode via `--cli`).
 
+
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](docs/screenshots/main-interface.png)
+
+### Sorting in Action
+![Sorting Animation](docs/screenshots/sorting-animation.png)
+
+### Benchmark Results
+![Benchmark Results](docs/screenshots/benchmark-results.png)
+
 ## Features
 - **7 Sorting Algorithms**: Bubble, Insertion, Selection, Merge, Quick, Heap, and Shell sort (`Sorting.cpp` is 100% preserved and decoupled via `Renderer` callbacks).
 - **Custom QPainter Bar Chart (`BarChartWidget`)**:
