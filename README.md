@@ -1,6 +1,9 @@
 # Sorting Visualizer (Qt6 / Qt5 C++17 GUI + CLI)
 
 An animated sorting algorithm visualizer written in C++17 with a full **Qt Widgets GUI** (plus the original ANSI terminal CLI mode via `--cli`).
+![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
+![Qt](https://img.shields.io/badge/Qt-Widgets-green)
+![CMake](https://img.shields.io/badge/CMake-Build_System-blue)
 
 
 ## 📸 Screenshots
