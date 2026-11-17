@@ -1,0 +1,3 @@
+C:/Users/phara/Downloads/SortingVisualizer (2)/SortingVisualizer/build/CMakeFiles/sorting_visualizer.dir
+C:/Users/phara/Downloads/SortingVisualizer (2)/SortingVisualizer/build/CMakeFiles/edit_cache.dir
+C:/Users/phara/Downloads/SortingVisualizer (2)/SortingVisualizer/build/CMakeFiles/rebuild_cache.dir

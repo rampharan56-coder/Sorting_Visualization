@@ -1,0 +1,10 @@
+# ninja log v7
+15	528	8166398549343171	CMakeFiles/sorting_visualizer.dir/src/Config.cpp.obj	862d2b2b8f408a00
+26	1030	8166398549455107	CMakeFiles/sorting_visualizer.dir/src/InputUtils.cpp.obj	3716491c0434d3d5
+46	1167	8166398549631836	CMakeFiles/sorting_visualizer.dir/src/Renderer.cpp.obj	58dca9632723ed03
+66	2125	8166398549845396	CMakeFiles/sorting_visualizer.dir/src/Terminal.cpp.obj	75dbd1a9909087bd
+56	2304	8166398549722653	CMakeFiles/sorting_visualizer.dir/src/Sorting.cpp.obj	230f1622abd7dc4c
+6	2560	8166398549257627	CMakeFiles/sorting_visualizer.dir/src/BarChartWidget.cpp.obj	72b9d2fd9a8acc0b
+75	2826	8166398549936006	CMakeFiles/sorting_visualizer.dir/src/main.cpp.obj	4334fb8a3e7b864c
+35	3611	8166398549533162	CMakeFiles/sorting_visualizer.dir/src/MainWindow.cpp.obj	2c4e91d880850132
+3612	3813	8166398585298235	sorting_visualizer.exe	f999c0d6c4ad2d06
